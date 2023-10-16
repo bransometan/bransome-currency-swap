@@ -1,5 +1,14 @@
-# React + Vite
+# Currency Swap Form 
+Switcheo Code Challenge Submission (Done by: Bransome Tan)
+## Tech Stacks
 
-# bransome-currency-swap.io
+ReactJS, TailwindCSS, Axios, HeadlessUI/React, HeroIcons/React, SweetAlert2, Vite
 
-Currency Swap Form (ReactJS, TailwindCSS, Axios, HeadlessUI/React, HeroIcons/React, SweetAlert2, Vite)
+## Project setup
+```
+npm install
+```
+## Run App
+```
+npm start
+```
